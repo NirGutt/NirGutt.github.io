@@ -7,7 +7,7 @@ body {
 
 /* Header with background image */
 header {
-  background: url('epta_gws_banner.jpg') no-repeat center center/cover;
+  background: url('epta-gws-banner.jpg') no-repeat center center/cover;
   color: white;
   padding: 40px 20px;
   position: relative;
