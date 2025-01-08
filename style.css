@@ -31,7 +31,7 @@ header {
 /* Header Text */
 .header-text {
   margin-top: 20px;
-  color: white; /* Better contrast against the background */
+  color: black; /* Better contrast against the background */
 }
 
 .header-text h1,
