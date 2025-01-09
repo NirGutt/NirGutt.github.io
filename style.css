@@ -50,8 +50,8 @@ header {
 }
 
 .logo {
-  width: 30px; /* Fixed width */
-  height: 30px; /* Fixed height to maintain aspect ratio */
+  width: 20px; /* Fixed width */
+  height: 20px; /* Fixed height to maintain aspect ratio */
   object-fit: contain; /* Ensures logos don't stretch */
 }
 /* Link for Background Image */
