@@ -50,14 +50,14 @@ header {
 }
 
 .logo {
-  width: 40px; /* Fixed width */
-  height: 40px; /* Fixed height to maintain aspect ratio */
+  width: 80px; /* Fixed width */
+  height: 80px; /* Fixed height to maintain aspect ratio */
   object-fit: contain; /* Ensures logos don't stretch */
 }
 
 .logob {
-  width: 80px; /* Fixed width */
-  height: 40px; /* Fixed height to maintain aspect ratio */
+  width: 160px; /* Fixed width */
+  height: 80px; /* Fixed height to maintain aspect ratio */
   object-fit: contain; /* Ensures logos don't stretch */
 }
 /* Link for Background Image */
