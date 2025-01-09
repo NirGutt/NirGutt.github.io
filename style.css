@@ -43,15 +43,16 @@ header {
 
 .header-logos {
   position: absolute;
-  top: 20px; /* Adjust for spacing */
-  right: 20px;
+  top: 20px; /* Adjust top positioning */
+  right: 20px; /* Adjust right positioning */
   display: flex;
-  gap: 10px;
+  gap: 10px; /* Spacing between logos */
 }
 
 .logo {
-  width: 50px;
-  height: auto;
+  width: 30px; /* Fixed width */
+  height: 30px; /* Fixed height to maintain aspect ratio */
+  object-fit: contain; /* Ensures logos don't stretch */
 }
 /* Link for Background Image */
 .header-link {
