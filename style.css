@@ -54,6 +54,12 @@ header {
   height: 40px; /* Fixed height to maintain aspect ratio */
   object-fit: contain; /* Ensures logos don't stretch */
 }
+
+.logo1 {
+  width: 80px; /* Fixed width */
+  height: 40px; /* Fixed height to maintain aspect ratio */
+  object-fit: contain; /* Ensures logos don't stretch */
+}
 /* Link for Background Image */
 .header-link {
   position: absolute;
